@@ -9,6 +9,9 @@
  CODE GOES BELOW */
 var skills = ['JavaScript', 'HTML', 'CSS'];
 
+console.log(skills[0], skills[1], skills[2]);
+
+
 /*
  -----------------------------------------------------
 
@@ -38,6 +41,8 @@ var batteryContainer = {
         {"id": "5004", "type": "Maple"}
     ]
 };
+
+console.log(batteryContainer.batters.batter[2], batteryContainer.topping[2], batteryContainer.topping[3])
 
 /*
  -----------------------------------------------------
@@ -98,7 +103,7 @@ var medicine = {
 
 /*
  -----------------------------------------------------
-
+*/
 
 
 
